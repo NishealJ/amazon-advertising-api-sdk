@@ -4,7 +4,7 @@ import {
   AmazonMarketplaceAdvertisingCountryCode,
   AmazonMarketplaceAdvertisingCurrency,
   AmazonMarketplaceAdvertisingTimeZone,
-} from '@scaleleap/amazon-marketplaces'
+} from '@NishealJ/amazon-marketplaces'
 
 export class EnumType<A> extends t.Type<A> {
   public readonly _tag: 'EnumType' = 'EnumType'

@@ -2,7 +2,7 @@ import { OperationProvider } from '../../../src/operations/operation-provider'
 import { ProfileOperation } from '../../../src/operations/profiles/profile-operation'
 import { httpClientFactory } from '../../http-client-factory'
 import { Profile } from '../../../src/operations/profiles/types'
-import { AmazonMarketplaceAdvertisingCountryCode } from '@scaleleap/amazon-marketplaces'
+import { AmazonMarketplaceAdvertisingCountryCode } from '@NishealJ/amazon-marketplaces'
 import { delay } from '../../test-utils'
 
 jest.setTimeout(15000)

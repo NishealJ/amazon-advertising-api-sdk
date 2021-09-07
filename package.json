@@ -32,6 +32,7 @@
   "license": "MIT",
   "dependencies": {
     "@scaleleap/amazon-marketplaces": "11.1.0",
+    "@NishealJ/amazon-marketplaces": "git://github.com/NishealJ/amazon-marketplaces.git#add-marketplace-in",
     "axios": "0.21.4",
     "client-oauth2": "4.3.3",
     "fp-ts": "2.11.1",

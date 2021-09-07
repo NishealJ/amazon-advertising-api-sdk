@@ -1,6 +1,6 @@
 import { existsSync, readFileSync, writeFileSync } from 'fs'
 import { join } from 'path'
-import { amazonMarketplaces, assertMarketplaceHasAdvertising } from '@scaleleap/amazon-marketplaces'
+import { amazonMarketplaces, assertMarketplaceHasAdvertising } from '@NishealJ/amazon-marketplaces'
 import { OAuthClient } from '../src/o-auth-client'
 import { config } from './config'
 

@@ -1,4 +1,4 @@
-import { amazonMarketplaces, assertMarketplaceHasAdvertising } from '@scaleleap/amazon-marketplaces'
+import { amazonMarketplaces, assertMarketplaceHasAdvertising } from '@NishealJ/amazon-marketplaces'
 import { AmazonAdvertising } from '../src'
 
 const auth = {

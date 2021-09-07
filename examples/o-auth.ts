@@ -1,5 +1,5 @@
 import { OAuthClient } from '../src'
-import { amazonMarketplaces, assertMarketplaceHasAdvertising } from '@scaleleap/amazon-marketplaces'
+import { amazonMarketplaces, assertMarketplaceHasAdvertising } from '@NishealJ/amazon-marketplaces'
 
 const REDIRECT_URI = 'https://www.example.com/success'
 
